@@ -1,10 +1,30 @@
-# java-todo-list
-This is a basic Java application to manage tasks. It runs in the terminal (or optionally with a GUI), allowing users to:
+# 📝 To-Do List App
 
-    Add, remove, and complete tasks
+A simple and efficient to-do list application to help manage your daily tasks.
 
-    Filter tasks by status or deadline
+## ✅ Features
 
-    Save and load task data from a .txt or .json file
+1. **Add Tasks**  
+   Easily create new tasks to keep track of your activities.
 
-The goal of this project is to reinforce Object-Oriented Programming (OOP), file I/O, and Java basics.
+2. **Checkbox**  
+   Mark tasks as completed using checkboxes.
+
+3. **Edit Tasks**  
+   Update task details such as the name or description.
+
+4. **Delete Tasks**  
+   Remove tasks you no longer need.
+
+5. **View Tasks**  
+   Display a list of all pending and completed tasks.
+
+6. **Boxes with Names**  
+   Tasks are organized in clearly labeled sections or input boxes.
+
+7. **Priorities**  
+   Assign priority levels (e.g., High, Medium, Low) to organize your tasks.
+
+## 🚀 Getting Started
+
+Clone the repository and start managing your tasks today!
